@@ -13,8 +13,8 @@ library(RJSONIO)
 library (RCurl)
 
 ## set parameters 
-api <- "87fe802cb8c6358aa193a622a8419258:1:73347879 " #API key from NYT sign in
-apic  <- "7422e5914838a8ab10edff52c349ccf:0:73347879" # API comments
+api <- "mykey " #API key from NYT sign in
+apic  <- "mykeyforcomments" # API comments
 q <- "interactive" # Query string, use + instead of space
 
 records <- 1000 #number of results 
