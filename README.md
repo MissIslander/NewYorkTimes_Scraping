@@ -1,4 +1,4 @@
-# dataincubator
+# Web-scraping New York Times
 
 Code for webscraping using an API on NYT articles
 
